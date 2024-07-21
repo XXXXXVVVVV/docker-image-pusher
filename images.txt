@@ -1,1 +1,1 @@
-portainer/portainer
+python:3.11-slim
