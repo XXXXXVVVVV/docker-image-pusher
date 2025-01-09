@@ -1,1 +1,1 @@
-fatedier/frpc:v0.60.0
+openjdk:8-jre-slim
