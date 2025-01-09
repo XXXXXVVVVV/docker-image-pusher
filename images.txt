@@ -1,1 +1,1 @@
-spryker/redis-commander:0.8.0
+fatedier/frps:v0.60.0
