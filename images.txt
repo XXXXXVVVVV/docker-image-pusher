@@ -1,1 +1,1 @@
-openjdk:8-jre-slim
+opensecurity/mobile-security-framework-mobsf:latest
